@@ -1,0 +1,15 @@
+.app-item-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  width: 140px;
+  border-radius: 10px;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.app-image {
+  height: 70px;
+  width: 60px;
+  padding-top: 10px;
+}

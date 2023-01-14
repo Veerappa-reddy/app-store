@@ -1,0 +1,17 @@
+.tab-item {
+  padding-left: 5px;
+  padding-right: 5px;
+  color: #7b8794;
+}
+.tab-button {
+  border: none;
+  color: #7b8794;
+  font-size: 15px;
+  border-bottom: 2px solid #dfe2e5;
+}
+.active-tab-btn {
+  border: none;
+  color: #7b8794;
+  font-size: 15px;
+  border-bottom: 2px solid #0b69ff;
+}

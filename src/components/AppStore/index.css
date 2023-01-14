@@ -1,0 +1,39 @@
+.app-store-container {
+  background-image: linear-gradient(to bottom, #fff1eb, #ace0f9);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 30px;
+  font-family: 'Bree Serif';
+  font-weight: 700;
+}
+.search-container {
+  display: flex;
+  border: 1px solid #7b8794;
+  padding: 5px;
+  border-radius: 4px;
+}
+.search-icon {
+  width: 20px;
+}
+.input-element {
+  background-color: transparent;
+  outline: none;
+  border: none;
+}
+.tabslist-container {
+  list-style-type: none;
+  display: flex;
+  margin-right: 40px;
+}
+.app-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  width: 60%;
+  justify-content: center;
+}
